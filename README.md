@@ -7,6 +7,6 @@ AdminLTE Jekyll Theme
 
 TODO
 ----
-# Document how to apply to your own Markdown
-# Document how to use the sidebar menu
-# Add example pages
+1. Document how to apply to your own Markdown
+2. Document how to use the sidebar menu
+3. Add example pages
